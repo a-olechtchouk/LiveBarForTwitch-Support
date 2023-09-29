@@ -1,7 +1,7 @@
-# LiveBarForTwitch-Support
+# StreamBarForTwitch-Support
 
 # Launch
-To open LiveBar for Twitch, open the application and tap the app icon that appears in the menu bar. 
+To open StreamBar for Twitch, open the application and tap the app icon that appears in the menu bar. 
 
 # Log-in
 Click the "Connect with Twitch" button to login with your Twitch.tv account. After successfully completing the Twitch authentication process, you will be logged in.
